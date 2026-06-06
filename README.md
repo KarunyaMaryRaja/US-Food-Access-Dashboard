@@ -33,13 +33,13 @@ I didn't want to assume. I went looking for the data.
 | File | Description |
 |---|---|
 | `Food Access Dashboard.pbix` | Power BI dashboard file — download and open in Power BI Desktop |
-| `FoodAccess_Dashboard_Documentation.docx` | Full project write-up — findings, methodology, recommendations |
+| `FoodAccess_Dashboard_Documentation.pdf` | Full project write-up — findings, methodology, recommendations |
 | `Denton_US_Food_Access_Status_for_Seniors.jpg` | Dashboard screenshot filtered to Denton, TX |
 | `2025-food-environment-atlas-data.zip` | Raw USDA source data |
 
 ## About
 
-**Karunya Mary Raja**
+**Karunya Mary Raja** **-** **Data Analyst**
 M.S. Information Systems & Technology (Data Analytics & Management) · GPA 4.0/4.0
 University of North Texas · May 2026
 
