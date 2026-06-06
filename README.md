@@ -20,7 +20,7 @@ I didn't want to assume. I went looking for the data.
 
 ## Live Dashboard
 
-[View Interactive Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiMWFkMTA4NDItMzllNS00NGQ2LTlmYzktNWYyMjI4YTY2OGYwIiwidCI6IjcwZGUxOTkyLTA3YzYtNDgwZi1hMzE4LWExYWZjYmEwMzk4MyIsImMiOjN9)
+[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWFkMTA4NDItMzllNS00NGQ2LTlmYzktNWYyMjI4YTY2OGYwIiwidCI6IjcwZGUxOTkyLTA3YzYtNDgwZi1hMzE4LWExYWZjYmEwMzk4MyIsImMiOjN9)
 
 ## Tools & Data
 
