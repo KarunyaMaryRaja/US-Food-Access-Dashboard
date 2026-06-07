@@ -12,11 +12,11 @@ I didn't want to assume. I went looking for the data.
 
 ## What I Found
 
-- 🔴 **17,464 seniors** in Denton County alone cannot access a food store
-- 📈 Denton's food insecurity **rose 27%** in 3 years — from 13.3% (2018–20) to 16.9% (2021–23)
-- 👴 **37.9% of Denton seniors** have low food store access — nearly 4 in 10
-- 🕳️ **16.9% face food insecurity** but only **11.5% receive SNAP** — thousands fall through the gap
-- 🌾 Nationally, rural counties like Loving County, TX show **nearly 100%** of seniors without food store access
+-  **17,464 seniors** in Denton County alone cannot access a food store
+-  Denton's food insecurity **rose 27%** in 3 years — from 13.3% (2018–20) to 16.9% (2021–23)
+-  **37.9% of Denton seniors** have low food store access — nearly 4 in 10
+-  **16.9% face food insecurity** but only **11.5% receive SNAP** — thousands fall through the gap
+-  Nationally, rural counties like Loving County, TX show **nearly 100%** of seniors without food store access
 
 ## Live Dashboard
 
